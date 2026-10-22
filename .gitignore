@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local notebooks (the demo uses a temp dir; never commit a real store)
+.gristmill.json
+*.gristmill.json
+/tmp-demo/

@@ -1,0 +1,3 @@
+# GristMill runs on the Python standard library alone -- there is nothing to
+# install for the tool itself.  pytest is here only to run the test suite.
+pytest>=8.0,<10.0
