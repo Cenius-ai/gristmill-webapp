@@ -37,7 +37,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-Open the repo and you'll find a complete Full-stack app application (22 files). One command (`./install.sh`) covers dependency setup and demo-data seeding. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
+Open the repo and you'll find a complete Full-stack app application (12 files). One command (`./install.sh`) covers dependency setup and demo-data seeding. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
 
 ## Usage guide
 
